@@ -160,3 +160,8 @@ cython_debug/
 #.idea/
 
 researchtool_env/
+venv/
+faiss_index.pkl
+fiass_index/*
+index.pkl
+index.faiss
